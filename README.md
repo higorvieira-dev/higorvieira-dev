@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou trabalhando com front-end & back-end
-- 🌱 Estudando .LUA
+
 
 <div align="center">
   <a href="https://github.com/higorvieira-dev">
